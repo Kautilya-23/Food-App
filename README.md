@@ -15,3 +15,6 @@ A React-based food ordering application inspired by Swiggy.
 - Parcel / Vite
 - Tailwind CSS
 - Redux Toolkit
+
+## My Contribution
+Built frontend components, and implemented state management.
